@@ -1,0 +1,18 @@
+# NATION-
+
+pkg update
+
+pkg upgrade
+
+pkg install git 
+
+pkg install python
+
+pkg  install python3 
+
+
+git clone https://github.com/NATIONVK/NATION-.git
+
+cd NATION-
+
+python3 NATION PAID.py
